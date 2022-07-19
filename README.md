@@ -76,7 +76,7 @@ v0.5 Release (Final):
 * Bug fixed
 * Now cookies is supported. (--cookie {}) 
 ## Note
-* Sorry for my bad english 
 * if you run pwnxss on the win10 terminal you will get an untidy output
 * now it doesn't support DOM
 
+ [![Instagram](https://img.shields.io/badge/IG-%40dunstan.guba-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/dunstanguba)
